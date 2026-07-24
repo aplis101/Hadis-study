@@ -16,7 +16,7 @@ INSERT INTO app_settings (key, value, description) VALUES
     ('report_alert_min',              '2',     'الحد الأدنى المطلق لعتبة التنبيه (بلاغات)'),
     ('report_hide_ratio',             '0.40',  'نسبة عتبة الإخفاء التلقائي من الطلاب النشطين'),
     ('report_hide_min',               '4',     'الحد الأدنى المطلق لعتبة الإخفاء (بلاغات)'),
-    ('community_best_min_likes',      '3',     'الحد الأدنى من اللايكات لتفعيل شارة "أفضل تسجيل"'),
+    ('community_best_min_likes',      '3',     'الحد الأدنى من اللايكات لتفعيل شارة أفضل تسجيل'),
     ('active_users_window_days',      '30',    'نافذة احتساب الطلاب النشطين (أيام)'),
     ('rate_limit_uploads_per_hour',   '5',     'الحد الأقصى لرفع التسجيلات في الساعة لكل طالب'),
     ('listen_count_threshold_seconds','5',     'الحد الأدنى لمدة الاستماع المحتسبة (ثوانٍ)')
